@@ -1,0 +1,4 @@
+name = "schoolspot"
+main = "src/index.js"
+compatibility_date = "2023-02-13"
+route = { pattern = "schoolspot.n7qf.net", zone_name = "n7qf.net", custom_domain = true }
